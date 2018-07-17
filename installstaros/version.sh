@@ -1,0 +1,8 @@
+#控制器版本
+export DIPC_VERSION=1.5.5
+export PROTOCOL_VERSION=1.2.5
+export STARCORE_VERSION=1.4.3
+export STARDLLS_VERSION=1.5.1
+export STAROS_VERSION=1.2.0
+#armv7 or x86_64
+export CPUTYPE=x86_64
